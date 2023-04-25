@@ -136,7 +136,9 @@ No deployment needed
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> No further updates
+- **[Landing_Page]**
+- **[Responsive_Desing]**
+- **[FlexBox_Best_Practices]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
